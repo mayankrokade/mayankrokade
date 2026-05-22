@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayank Rokade
 **ServiceNow Developer**
-📍 Pune, India | 🎯 CSA Certification in Progress
+📍India | 🎯 CSA Certification in Progress
 
 ---
 
